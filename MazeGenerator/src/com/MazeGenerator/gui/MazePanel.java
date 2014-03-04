@@ -2,11 +2,9 @@ package com.MazeGenerator.gui;
 
 import java.awt.Dimension;
 import java.awt.Graphics;
-import java.awt.Graphics2D;
 
 import javax.swing.JPanel;
 
-import com.MazeGenerator.maze.Cell;
 import com.MazeGenerator.maze.Grid;
 import com.MazeGenerator.maze.Maze;
 
